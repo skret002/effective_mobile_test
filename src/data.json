@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "category": "Доход",
+        "current_date": "2024-05-09",
+        "value": 3547.7,
+        "description": "Развлечения",
+        "note": "Ежемесячный платеж"
+    },
+    {
+        "id": 2,
+        "category": "Доход",
+        "current_date": "2024-05-09",
+        "value": 1949.95,
+        "description": "Развлечения",
+        "note": "Развлечения на выходных"
+    },
+    {
+        "id": 3,
+        "category": "Расход",
+        "current_date": "2024-05-09",
+        "value": 1873.77,
+        "description": "Развлечения",
+        "note": "Еженедельные покупки"
+    },
+    {
+        "id": 4,
+        "category": "Расход",
+        "current_date": "2024-05-09",
+        "value": 3493.86,
+        "description": "Кошка",
+        "note": "Так случилось :)"
+    },
+    {
+        "id": 5,
+        "category": "Расход",
+        "current_date": "2024-05-09",
+        "value": 449.65,
+        "description": "Аренда",
+        "note": "Так случилось :)"
+    },
+    {
+        "id": 6,
+        "category": "Расход",
+        "current_date": "2024-05-09",
+        "value": 700.0,
+        "description": "ГАИ",
+        "note": "козлы"
+    }
+]
