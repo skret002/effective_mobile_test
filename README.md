@@ -1,6 +1,9 @@
 Тестовое задание для <h2> Effective Mobile </h2>
 ТЗ - https://docs.google.com/document/d/1IszyY0--qsbBdgRVcfQXDloJDtvnKW4QsS7xQg2IpY8/edit  <br>
+
 Установите зависимости <code> pip install -r dependencies.txt </code>
+Минимальные настройки вынесены в env
+
 
 1. Запуск CLI - <code>src/main.py</code>
 2. Версия с GUI - <code>src/main2.py</code>
